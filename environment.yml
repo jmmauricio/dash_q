@@ -9,6 +9,7 @@ dependencies:
   - pandas
   - numba
   - lxml
+  - ipympl
   - pip
   - pip:
     - pydgrid
