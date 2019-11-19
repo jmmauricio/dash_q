@@ -2,5 +2,10 @@ channels:
   - conda-forge
 dependencies:
   - appmode
+  - numpy
+  - scipy
+  - pandas
+  - lxml
+  - pip
   - pip:
     - pydgrid
