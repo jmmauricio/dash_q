@@ -1,0 +1,12 @@
+numpy
+scipy
+matplotlib
+numba
+voila
+pydgrid
+nbsphinx
+IPython
+ipykernel
+requests
+pandas
+ipympl
