@@ -4,6 +4,7 @@ dependencies:
   - appmode
   - numpy
   - scipy
+  - matplotlib
   - pandas
   - numba
   - lxml
