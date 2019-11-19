@@ -5,6 +5,7 @@ dependencies:
   - numpy
   - scipy
   - matplotlib
+  - bokeh
   - pandas
   - numba
   - lxml
